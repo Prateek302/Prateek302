@@ -1,4 +1,4 @@
-# prateeksri
+# Hello peoples, Welcome to my github profile
 
 [![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
