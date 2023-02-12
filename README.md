@@ -1,6 +1,5 @@
 # Hello peoples, Welcome to my github profile
-
-[![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate web developer & problem solver</h3>
