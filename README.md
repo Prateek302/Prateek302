@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **django,bootstrap,php**
 
-- 📫 How to reach me **sprateek1432@gmail.com**
+- 📫 How to reach me **prateeksrivastav333@gmail.com**
 
 - ⚡ Fun fact **I love travel & listen music**
 
