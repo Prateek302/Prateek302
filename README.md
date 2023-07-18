@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [prateeksrivastav143.blogspot.com](prateeksrivastav143.blogspot.com)
 
-- 💬 Ask me about **django,bootstrap,php**
+- 💬 Ask me about **php,bootstrap,django**
 
 - 📫 How to reach me **prateeksrivastav333@gmail.com**
 
