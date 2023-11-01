@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateeksri_" target="blank"><img src="https://img.shields.io/twitter/follow/prateeksri_?logo=twitter&style=for-the-badge" alt="prateeksri_" /></a> </p>
 
-- 🔭 I’m currently working on [spliterr](spliterr.rf.gd)
+- 🔭 I’m currently working on [spliterr](http://spliterr.rf.gd)
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
