@@ -1,4 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Prateek</h1>
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek302&label=Profile%20views&color=0e75b6&style=flat" alt="prateek302" /> </p>
